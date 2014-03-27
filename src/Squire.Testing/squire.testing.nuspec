@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>squire.testing</id>
+        <version>$version$</version>
+        <title>Squire Testing</title>
+        <authors>Daniel Krainas</authors>
+        <owners />
+        <language>en-US</language>
+        <projectUrl>https://github.com/danielkrainas/squire-testing</projectUrl>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>squire fluent testing</tags>
+        <description>Squire fluent unit testing API.</description>
+        <dependencies>
+        </dependencies>
+    </metadata>
+    <files>
+    </files>
+</package>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>squire.testing.mstest</id>
+        <version>$version$</version>
+        <title>Squire MsTest Extensions</title>
+        <authors>Daniel Krainas</authors>
+        <owners />
+        <language>en-US</language>
+        <projectUrl>https://github.com/danielkrainas/squire-testing</projectUrl>
+        <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <tags>squire fluent testing mstest extensions</tags>
+        <description>Squire Microsoft unit testing extensions.</description>
+        <dependencies>
+            <dependency id="squire.testing" version="$version$" />
+        </dependencies>
+    </metadata>
+    <files>
+    </files>
+</package>
